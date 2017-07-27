@@ -4,8 +4,4 @@ branches:
 projects:
   BossBarAPI:
     path: ""
-  libuncommon:
-    path: ""
-    type: library
-    model: virion
 ...
